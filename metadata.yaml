@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36424
     wikipedia: http://de.wikipedia.org/wiki/Headon_Hill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37413#The-Duke-Decides
 gutenberg_issued: '2011-09-12'
 gutenberg_type: Text
 identifiers:
