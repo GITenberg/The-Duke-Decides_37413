@@ -1,0 +1,29 @@
+_repo: The-Duke-Decides_37413
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37413-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hill, Headon
+    alias: Grainger, Francis Edward
+    birthdate: 1857
+    deathdate: 1927
+    gutenberg_agent_id: '36424'
+    url: http://www.gutenberg.org/2009/agents/36424
+    wikipedia: http://de.wikipedia.org/wiki/Headon_Hill
+description: ''
+gutenberg_issued: '2011-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+- !lcsh 'Inheritance and succession -- Fiction'
+title: The Duke Decides
+url: http://www.gutenberg.org/ebooks/37413
